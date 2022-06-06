@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @henriquegirotto12
-- 👀 I’m interested IN BEING A JOURNALIST
-- 🌱 I’m currently learning NEW THINGS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me MY GMAIL
+# SOBRE MIM
 
-<!---
-henriquegirotto12/henriquegirotto12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Meu nome é Henrique**
+
+**tenho 15 anos**
+
+**Moro no Brasil**
+
+## Estudos
+**Programador amador estou aprendendo a fazer programação no java script**
+
+**Ingles intermediario**
+
+**Administração avançado**
+
+## Ideias e sonhos
+
+**Quero avançar meu conhecimento em ingles ,Principalmente programação**
+
+**Sonho em ser jornalista e reporter**
+
+## Link de projetos
+
+**Alura jogo = <a href=" ** 
+
